@@ -5,7 +5,7 @@ import './App.css'
 class App extends Component {
   render() {
     return (
-      <Quiz message={'Detta props kommer från parent class men visas i child class. '}/>
+      <Quiz />
     )
   }
 }
